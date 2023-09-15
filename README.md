@@ -1,8 +1,7 @@
 # Starbucks User Sentiment Review Prediction
 
 <span style="color:blue">STARBUCKS ☕️ </span>
-<span style="color:red">OPINION.    
-MINING<span>
+<span style="color:red">OPINION MINING<span>
 
 
 Predicting Starbucks user ratings based on customer reviews using Logistic Regression and Naive Bayes with TextBlob for sentiment analysis.
