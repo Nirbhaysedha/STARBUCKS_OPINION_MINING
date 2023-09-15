@@ -1,4 +1,4 @@
-# Starbucks User Sentiment Review Prediction
+# Starbucks User Sentiment Review Prediction🚀
 
 <span style="color:blue">STARBUCKS ☕️ </span>
 <span style="color:red">OPINION MINING<span>
@@ -6,7 +6,7 @@
 
 Predicting Starbucks user ratings based on customer reviews using Logistic Regression and Naive Bayes with TextBlob for sentiment analysis.
 
-## Overview
+## Overview🤖
 Welcome to the Starbucks User Sentiment Review Prediction project! This project combines the power of machine learning with natural language processing to predict user ratings for Starbucks stores based on customer reviews. By analyzing the sentiment expressed in reviews, our models aim to provide accurate predictions, offering valuable insights into customer satisfaction.
 
 ## Key Features
